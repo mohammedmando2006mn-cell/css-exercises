@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-numbered {
+  background-color: lightcoral;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#sec-element {
+  color: blue;
+  font-size: 24px;
+}
+.odd-numbered.third-element {
+  font-size: 24px;
+}
+#fourth-element {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
